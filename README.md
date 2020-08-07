@@ -1,2 +1,2 @@
-# book_store_app
-## PR送るごとにNetrifyで確認できるよ
+# sample_for_netlify
+## PR送るごとにNetlifyで確認できるよ
